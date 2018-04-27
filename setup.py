@@ -8,7 +8,7 @@ setup(
     version='0.1.3',
     author='Eric Naeseth',
     author_email='eric@naeseth.com',
-    url='http://github.com/enaeseth/python-fp-growth/',
+    url='https://github.com/CDD1029/ok',
     
     py_modules=['fp_growth']
 )
