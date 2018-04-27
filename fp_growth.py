@@ -355,4 +355,4 @@ if __name__ == '__main__':
 
     result = sorted(result, key=lambda i: i[0])
     for itemset, support in result:
-        print str(itemset) + ' ' + str(support)
+        print str(itemset) + ' jhkbkl' + str(support)
